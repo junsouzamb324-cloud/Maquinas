@@ -1,0 +1,7 @@
+{
+  "name": "AgroRestore Premium",
+  "description": "Plataforma premium de restauração e recuperação de máquinas agrícolas e industriais com tecnologia de ponta.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
